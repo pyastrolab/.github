@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dac.png" width="100" alt="dac Logo">
+  <img src="dac.png" width="1000" alt="dac Logo">
 </p>
 
 <h2 align="center">🛰️ DAC Summer School for Computational Astronomy 2025</h2>
