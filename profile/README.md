@@ -10,8 +10,8 @@
 </p>
 
 ```
-**Download Time Table: https://pyastrolab/.github/timetable.pdf**
-**Download Grading Instructions: https://pyastrolab/.github/grading.pdf**
+Download Time Table: https://pyastrolab/.github/timetable.pdf
+Download Grading Instructions: https://pyastrolab/.github/grading.pdf
 ```
 ---
 
