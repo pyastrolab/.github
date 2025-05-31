@@ -42,7 +42,7 @@ Each student will receive **private repositories** for:
 * Python 3.x
 * Jupyter Notebooks
 * Git and GitHub
-* Astropy, GALAMO, Astroquery
+* Astropy, Galamo, Astroquery
 
 ---
 
