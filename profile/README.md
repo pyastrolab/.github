@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dac.png" width="600" alt="dac Logo" style="filter: invert(100%);">
+  <img src="dac.png" width="600" alt="dac Logo">
 </p>
 
 
