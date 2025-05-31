@@ -1,79 +1,70 @@
-Perfect choice — **`pyastrolab`** is short, descriptive, and memorable!
 
-Here’s a **README.md** template you can use for your GitHub Classroom assignments or starter repositories:
+# 🛰️ Assignment 0 – Git & Python Basics
 
----
+Welcome to **PyAstroLab**, the official GitHub space for the **DAC Summer School in Computational Astronomy 2025**.
 
-### 📄 `README.md` Template for `pyastrolab` Repos
-
-````markdown
-# 🛰️ Python for Astronomy – Assignment {{assignment_number}}
-
-Welcome to **PyAstroLab**! This repository contains the starter files and instructions for **Assignment {{assignment_number}}** of the *Python for Astronomy* course.
+This repository is part of **Assignment 0**, designed to help you get comfortable with GitHub, basic Python scripting, and the workflow we’ll use throughout the course.
 
 ---
 
-## 📚 Assignment Overview
+## 📚 Overview
 
-**Topic**: {{brief_description}}  
-**Session**: Week {{week_number}}, Session {{session_number}}  
-**Due Date**: {{due_date}}
+**Course**: DAC Summer School in Computational Astronomy  
+**Duration**: June 13 – July 20, 2025  
+**Platform**: GitHub Classroom (Private Repositories)
 
----
-
-## 🧪 What You’ll Learn
-- {{Learning_Point_1}}
-- {{Learning_Point_2}}
-- {{Learning_Point_3}}
+In this assignment, you will:
+- Practice basic Python syntax (variables, loops, functions)
+- Generate a simple plot using `matplotlib`
+- Submit your first code via Git
 
 ---
 
 ## 📝 Instructions
 
-1. **Clone** this repository:
+1. Clone this repository:
    ```bash
-   git clone https://github.com/pyastrolab/{{repo_name}}.git
+   git clone https://github.com/pyastrolab/<your-repo-name>.git
 ````
 
-2. Complete the required code in the provided Jupyter Notebook or `.py` file.
-3. Add your name and comments where necessary.
-4. **Commit** your changes:
+2. Open the provided Python script or Jupyter Notebook.
+3. Complete the TODOs inside:
+
+   * Write a function
+   * Plot a simple graph (e.g., a sine wave)
+4. Commit and push your work:
 
    ```bash
    git add .
-   git commit -m "Completed Assignment {{assignment_number}}"
+   git commit -m "Finished Assignment 0"
    git push
    ```
 
 ---
 
+## 🎯 Learning Objectives
+
+By completing this task, you will:
+
+* Understand how to clone and push to a GitHub repo
+* Write and run basic Python code
+* Use `matplotlib` for plotting
+
+---
+
 ## ✅ Submission Checklist
 
-* [ ] All required code completed
-* [ ] Notebook/script runs without errors
-* [ ] Pushed to your GitHub repo before the deadline
+* [ ] Function implemented
+* [ ] Plot generated
+* [ ] Code pushed successfully
 
 ---
 
-## 💡 Tips
+Feel free to reach out on the course forum or during live sessions if you face any issues.
 
-* Use [Astropy Docs](https://docs.astropy.org/) and [NumPy Reference](https://numpy.org/doc/) as needed.
-* Ask questions in our course discussion thread or during live sessions.
-
----
-
-## 🔒 Privacy Notice
-
-This repository is private and only visible to you and the instructor.
+Good luck, and welcome to PyAstroLab! 🌌
 
 ---
 
-Happy coding! 🌌
-– *Team PyAstroLab*
+Let me know if you'd like the full folder structure or a `.py` / `.ipynb` file to go with it!
 
-```
-
----
-
-Would you like this customized for **Assignment 0 (Python script + Git test)** as your first repo starter file? I can prep the full structure (README, template `.py`, etc.) right away.
-```
