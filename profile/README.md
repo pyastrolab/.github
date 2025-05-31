@@ -1,70 +1,47 @@
+<p align="center">
+  <img src="dac.png" width="100" alt="dac Logo">
+</p>
 
-# 🛰️ Assignment 0 – Git & Python Basics
+<h2 align="center">🛰️ DAC Summer School for Computational Astronomy 2025</h2>
 
-Welcome to **PyAstroLab**, the official GitHub space for the **DAC Summer School in Computational Astronomy 2025**.
-
-This repository is part of **Assignment 0**, designed to help you get comfortable with GitHub, basic Python scripting, and the workflow we’ll use throughout the course.
-
----
-
-## 📚 Overview
-
-**Course**: DAC Summer School in Computational Astronomy  
-**Duration**: June 13 – July 20, 2025  
-**Platform**: GitHub Classroom (Private Repositories)
-
-In this assignment, you will:
-- Practice basic Python syntax (variables, loops, functions)
-- Generate a simple plot using `matplotlib`
-- Submit your first code via Git
+<p align="center">
+  Welcome to <strong>PyAstroLab</strong>, the official GitHub organization for the 6-week summer school in computational astronomy. Hosted by the DAC initiative, this program introduces high school and undergraduate students to astronomy through the lens of Python programming.
+</p>
 
 ---
 
-## 📝 Instructions
+## 🗓️ Course Overview (June 13 – July 20, 2025)
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/pyastrolab/<your-repo-name>.git
-````
+The program includes:
+- 🐍 Python basics (NumPy, Matplotlib, Pandas)
+- 🌠 Astronomical data analysis with Astropy
+- 💾 FITS file handling and galaxy modeling (GALAMO)
+- 🧪 Statistical methods and Monte Carlo simulations
+- 🔭 SQL & data access with Astroquery
+- 🔬 AGN classification using SDSS data & BPT diagrams
+- 🧑‍💻 Final research mini-project using real astronomical data
 
-2. Open the provided Python script or Jupyter Notebook.
-3. Complete the TODOs inside:
-
-   * Write a function
-   * Plot a simple graph (e.g., a sine wave)
-4. Commit and push your work:
-
-   ```bash
-   git add .
-   git commit -m "Finished Assignment 0"
-   git push
-   ```
+Live sessions run **Friday to Sunday**, with assignments and materials shared via this organization.
 
 ---
 
-## 🎯 Learning Objectives
+## 📁 Repositories
 
-By completing this task, you will:
-
-* Understand how to clone and push to a GitHub repo
-* Write and run basic Python code
-* Use `matplotlib` for plotting
-
----
-
-## ✅ Submission Checklist
-
-* [ ] Function implemented
-* [ ] Plot generated
-* [ ] Code pushed successfully
+Each student will receive **private repositories** for:
+- Weekly assignments
+- Final project submission
+- Example notebooks and lecture materials
 
 ---
 
-Feel free to reach out on the course forum or during live sessions if you face any issues.
-
-Good luck, and welcome to PyAstroLab! 🌌
+## 🛠️ Tech Stack
+- Python 3.x
+- Jupyter Notebooks
+- Git & GitHub
+- Astropy, GALAMO, Astroquery
 
 ---
 
-Let me know if you'd like the full folder structure or a `.py` / `.ipynb` file to go with it!
+> All content here is for educational use only and is private to enrolled students.
 
+---
