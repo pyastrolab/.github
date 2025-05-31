@@ -9,6 +9,10 @@
   Welcome to <strong>PyAstroLab</strong>, the official GitHub organization for the 6-week summer school in computational astronomy. Hosted by the DAC initiative, this program introduces high school and undergraduate students to astronomy through the lens of Python programming.
 </p>
 
+```
+**Download Time Table: https://pyastrolab/.github/timetable.pdf**
+**Download Grading Instructions: https://pyastrolab/.github/grading.pdf**
+```
 ---
 
 ## Course Overview (June 13 – July 20, 2025)
