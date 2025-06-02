@@ -6,7 +6,7 @@
 <h2 align="center">DAC Summer School for Computational Astronomy 2025</h2>
 
 <p align="center">
-  Welcome to <strong>PyAstroLab</strong>, the official GitHub organization for the 6-week summer school in computational astronomy. Hosted by the DAC initiative, this program introduces high school and undergraduate students to astronomy through the lens of Python programming.
+  Welcome to <strong>PyAstroLab</strong>, the official GitHub organization for the 6-week summer school in computational astronomy. Hosted by the DAC initiative (ISRO Certified Space Tutor), this program introduces high school and undergraduate students to astronomy through the lens of Python programming.
 </p>
 
 ```
