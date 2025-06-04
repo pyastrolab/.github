@@ -21,7 +21,7 @@ The program includes:
 
 * Python fundamentals (NumPy, Matplotlib, Pandas)
 * Astronomical data analysis using Astropy
-* FITS file handling and galaxy modeling with GALAMO
+* FITS file handling and galaxy modeling with Galamo
 * Statistical methods and Monte Carlo simulations
 * SQL and data access via Astroquery
 * AGN classification using SDSS data and BPT diagrams
